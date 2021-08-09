@@ -1,5 +1,5 @@
 # carbnb
-![image](https://user-images.githubusercontent.com/72091205/128678926-22e35d07-53a6-4149-a2f1-8f8b860d2009.png)
+![carbnb](demo/demo.gif)
 ---
 ## Description
 carbnb is a mock-up car renting and selling company located in the Philippines which has high quality cars and top rated service.
@@ -25,4 +25,6 @@ Create a database with MySQL and connect to server with the `ormconfig.json` fil
 Run the server: `npm run start`
 
 Run the client: `npm run start`
+
+To add new car data, go to the GraphQL Playground - `http://localhost:5000/graphql` (In this case the port is 5000, change to whatever port you use).
 
