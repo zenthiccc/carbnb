@@ -157,8 +157,7 @@ export function Footer() {
         <AboutContainer>
           <Logo color="white" bgColor="dark" />
           <AboutText>
-            carbnb is a Car renting and selling company located in many
-            countries across the world which has high quality cars and top rated
+            carbnb is a Car renting and selling company located in the Philippines which has high quality cars and top rated
             service.
           </AboutText>
         </AboutContainer>
