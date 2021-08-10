@@ -14,17 +14,33 @@ carbnb is a mock-up car renting and selling company located in the Philippines w
 > - TypeORM
 > - MySQL
 
-## Instructions
 
-Install dependencies for server: cd server ---> `npm install`
+## Getting Started
 
-Install dependencies for client: cd client ---> `npm install`
+```bash
+# Clone the repository
+git clone https://github.com/zenthiccc/carbnb.git
+```
+```bash
+# Install dependencies for server
+cd server/ && npm install
 
-Create a database with MySQL and connect to server with the `ormconfig.json` file
+# Install dependencies for client
+cd client/ && npm install
+```
+```bash
+# Connect MySQL Database to server with the `ormconfig.json` file
+```
+```bash
 
-Run the server: `npm run start`
+# Run the server only
+cd server/ && npm run server
 
-Run the client: `npm run start`
+# Run the client only
+cd client/ && npm run client
 
-To add new car data, go to the GraphQL Playground - `http://localhost:5000/graphql` (In this case the port is 5000, change to whatever port you use).
+```
 
+```bash
+# To add new car data, go to the GraphQL Playground - `http://localhost:5000/graphql`
+```
