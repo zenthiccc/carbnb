@@ -8,6 +8,7 @@ carbnb is a mock-up car renting and selling company located in the Philippines w
 > - Typescript
 > - React
 > - Node.js
+> - Redux
 > - Tailwind 
 > - Nest.js
 > - GraphQL
