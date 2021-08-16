@@ -4,8 +4,9 @@
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/zenthiccc/carbnb?style=for-the-badge">
 </p>
+
 ![carbnb](demo/demo.gif)
----
+
 ## Description
 carbnb is a mock-up car renting and selling company located in the Philippines which has high quality cars and top rated service.
 
